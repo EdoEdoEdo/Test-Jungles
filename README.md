@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Project link
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Project available here [Test Jungles EdoEdoEdo](https://test-jungles-edoedoedo.netlify.app/).
 
 ## Available Scripts
 
